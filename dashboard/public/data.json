@@ -1,0 +1,4840 @@
+{
+  "summaryKPIs": {
+    "totalTripsProcessed": "39.6M",
+    "cleanValidTrips": "38.9M",
+    "dataQualityPassRate": "98.2%",
+    "annualAvgDailyTrips": "97.2K",
+    "busiestBorough": "Manhattan (88.0%)",
+    "peakDemandDate": "2025-12-13 (102.4K trips)",
+    "modelRocScore": "0.892",
+    "joinSpeedup": "5.1x",
+    "totalVolume2025": "32.7M"
+  },
+  "rollingAvgData": [
+    {
+      "date": "2025-01-01",
+      "Manhattan": 20691,
+      "Queens": 2158,
+      "Brooklyn": 584,
+      "Bronx": 118,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 23558
+    },
+    {
+      "date": "2025-01-02",
+      "Manhattan": 32495,
+      "Queens": 3619,
+      "Brooklyn": 714,
+      "Bronx": 166,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 37002
+    },
+    {
+      "date": "2025-01-03",
+      "Manhattan": 40954,
+      "Queens": 4440,
+      "Brooklyn": 790,
+      "Bronx": 183,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 46374
+    },
+    {
+      "date": "2025-01-04",
+      "Manhattan": 47631,
+      "Queens": 5004,
+      "Brooklyn": 762,
+      "Bronx": 175,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 53578
+    },
+    {
+      "date": "2025-01-05",
+      "Manhattan": 49672,
+      "Queens": 6444,
+      "Brooklyn": 749,
+      "Bronx": 165,
+      "Staten Island": 3,
+      "EWR": 6,
+      "total": 57038
+    },
+    {
+      "date": "2025-01-06",
+      "Manhattan": 58717,
+      "Queens": 7750,
+      "Brooklyn": 742,
+      "Bronx": 164,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 67381
+    },
+    {
+      "date": "2025-01-07",
+      "Manhattan": 70080,
+      "Queens": 8956,
+      "Brooklyn": 737,
+      "Bronx": 167,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 79947
+    },
+    {
+      "date": "2025-01-08",
+      "Manhattan": 73730,
+      "Queens": 8820,
+      "Brooklyn": 779,
+      "Bronx": 173,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 83509
+    },
+    {
+      "date": "2025-01-09",
+      "Manhattan": 77054,
+      "Queens": 8635,
+      "Brooklyn": 766,
+      "Bronx": 168,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 86629
+    },
+    {
+      "date": "2025-01-10",
+      "Manhattan": 78534,
+      "Queens": 8633,
+      "Brooklyn": 746,
+      "Bronx": 163,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 88082
+    },
+    {
+      "date": "2025-01-11",
+      "Manhattan": 80104,
+      "Queens": 8474,
+      "Brooklyn": 736,
+      "Bronx": 163,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 89483
+    },
+    {
+      "date": "2025-01-12",
+      "Manhattan": 81448,
+      "Queens": 8382,
+      "Brooklyn": 738,
+      "Bronx": 162,
+      "Staten Island": 3,
+      "EWR": 1,
+      "total": 90735
+    },
+    {
+      "date": "2025-01-13",
+      "Manhattan": 83212,
+      "Queens": 8308,
+      "Brooklyn": 755,
+      "Bronx": 168,
+      "Staten Island": 3,
+      "EWR": 0,
+      "total": 92446
+    },
+    {
+      "date": "2025-01-14",
+      "Manhattan": 84961,
+      "Queens": 8166,
+      "Brooklyn": 781,
+      "Bronx": 173,
+      "Staten Island": 3,
+      "EWR": 2,
+      "total": 94085
+    },
+    {
+      "date": "2025-01-15",
+      "Manhattan": 85920,
+      "Queens": 8156,
+      "Brooklyn": 788,
+      "Bronx": 188,
+      "Staten Island": 3,
+      "EWR": 2,
+      "total": 95057
+    },
+    {
+      "date": "2025-01-16",
+      "Manhattan": 87295,
+      "Queens": 8179,
+      "Brooklyn": 805,
+      "Bronx": 198,
+      "Staten Island": 3,
+      "EWR": 2,
+      "total": 96483
+    },
+    {
+      "date": "2025-01-17",
+      "Manhattan": 87535,
+      "Queens": 8170,
+      "Brooklyn": 817,
+      "Bronx": 200,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 96727
+    },
+    {
+      "date": "2025-01-18",
+      "Manhattan": 86670,
+      "Queens": 8021,
+      "Brooklyn": 830,
+      "Bronx": 204,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95730
+    },
+    {
+      "date": "2025-01-19",
+      "Manhattan": 86620,
+      "Queens": 7591,
+      "Brooklyn": 816,
+      "Bronx": 205,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95238
+    },
+    {
+      "date": "2025-01-20",
+      "Manhattan": 83592,
+      "Queens": 8003,
+      "Brooklyn": 747,
+      "Bronx": 187,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 92534
+    },
+    {
+      "date": "2025-01-21",
+      "Manhattan": 82227,
+      "Queens": 8247,
+      "Brooklyn": 736,
+      "Bronx": 187,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 91403
+    },
+    {
+      "date": "2025-01-22",
+      "Manhattan": 81722,
+      "Queens": 8218,
+      "Brooklyn": 725,
+      "Bronx": 179,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 90846
+    },
+    {
+      "date": "2025-01-23",
+      "Manhattan": 81291,
+      "Queens": 8137,
+      "Brooklyn": 729,
+      "Bronx": 183,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 90345
+    },
+    {
+      "date": "2025-01-24",
+      "Manhattan": 82222,
+      "Queens": 8048,
+      "Brooklyn": 735,
+      "Bronx": 189,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 91195
+    },
+    {
+      "date": "2025-01-25",
+      "Manhattan": 84168,
+      "Queens": 7993,
+      "Brooklyn": 728,
+      "Bronx": 187,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93081
+    },
+    {
+      "date": "2025-01-26",
+      "Manhattan": 84114,
+      "Queens": 8319,
+      "Brooklyn": 738,
+      "Bronx": 189,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93364
+    },
+    {
+      "date": "2025-01-27",
+      "Manhattan": 86443,
+      "Queens": 7870,
+      "Brooklyn": 806,
+      "Bronx": 217,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 95338
+    },
+    {
+      "date": "2025-01-28",
+      "Manhattan": 87042,
+      "Queens": 7578,
+      "Brooklyn": 816,
+      "Bronx": 223,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95663
+    },
+    {
+      "date": "2025-01-29",
+      "Manhattan": 87092,
+      "Queens": 7629,
+      "Brooklyn": 826,
+      "Bronx": 227,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 95776
+    },
+    {
+      "date": "2025-01-30",
+      "Manhattan": 87098,
+      "Queens": 7635,
+      "Brooklyn": 835,
+      "Bronx": 218,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95791
+    },
+    {
+      "date": "2025-01-31",
+      "Manhattan": 86755,
+      "Queens": 7608,
+      "Brooklyn": 836,
+      "Bronx": 222,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 95423
+    },
+    {
+      "date": "2025-02-01",
+      "Manhattan": 86813,
+      "Queens": 7618,
+      "Brooklyn": 840,
+      "Bronx": 221,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 95497
+    },
+    {
+      "date": "2025-02-02",
+      "Manhattan": 87821,
+      "Queens": 7644,
+      "Brooklyn": 857,
+      "Bronx": 223,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 96549
+    },
+    {
+      "date": "2025-02-03",
+      "Manhattan": 87936,
+      "Queens": 7664,
+      "Brooklyn": 861,
+      "Bronx": 219,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 96682
+    },
+    {
+      "date": "2025-02-04",
+      "Manhattan": 88423,
+      "Queens": 7662,
+      "Brooklyn": 865,
+      "Bronx": 214,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 97168
+    },
+    {
+      "date": "2025-02-05",
+      "Manhattan": 88996,
+      "Queens": 7629,
+      "Brooklyn": 864,
+      "Bronx": 214,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 97707
+    },
+    {
+      "date": "2025-02-06",
+      "Manhattan": 88187,
+      "Queens": 7521,
+      "Brooklyn": 851,
+      "Bronx": 209,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 96773
+    },
+    {
+      "date": "2025-02-07",
+      "Manhattan": 89018,
+      "Queens": 7526,
+      "Brooklyn": 834,
+      "Bronx": 211,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 97595
+    },
+    {
+      "date": "2025-02-08",
+      "Manhattan": 88707,
+      "Queens": 7434,
+      "Brooklyn": 832,
+      "Bronx": 210,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 97189
+    },
+    {
+      "date": "2025-02-09",
+      "Manhattan": 87205,
+      "Queens": 7512,
+      "Brooklyn": 800,
+      "Bronx": 201,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 95722
+    },
+    {
+      "date": "2025-02-10",
+      "Manhattan": 87870,
+      "Queens": 7601,
+      "Brooklyn": 787,
+      "Bronx": 201,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 96465
+    },
+    {
+      "date": "2025-02-11",
+      "Manhattan": 87950,
+      "Queens": 7542,
+      "Brooklyn": 786,
+      "Bronx": 202,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 96485
+    },
+    {
+      "date": "2025-02-12",
+      "Manhattan": 87366,
+      "Queens": 7389,
+      "Brooklyn": 783,
+      "Bronx": 200,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 95744
+    },
+    {
+      "date": "2025-02-13",
+      "Manhattan": 87973,
+      "Queens": 7467,
+      "Brooklyn": 803,
+      "Bronx": 206,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 96455
+    },
+    {
+      "date": "2025-02-14",
+      "Manhattan": 87915,
+      "Queens": 7579,
+      "Brooklyn": 807,
+      "Bronx": 199,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 96504
+    },
+    {
+      "date": "2025-02-15",
+      "Manhattan": 86660,
+      "Queens": 7685,
+      "Brooklyn": 801,
+      "Bronx": 201,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95352
+    },
+    {
+      "date": "2025-02-16",
+      "Manhattan": 86440,
+      "Queens": 7370,
+      "Brooklyn": 811,
+      "Bronx": 202,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 94827
+    },
+    {
+      "date": "2025-02-17",
+      "Manhattan": 84372,
+      "Queens": 7588,
+      "Brooklyn": 763,
+      "Bronx": 182,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 92909
+    },
+    {
+      "date": "2025-02-18",
+      "Manhattan": 83259,
+      "Queens": 8113,
+      "Brooklyn": 751,
+      "Bronx": 184,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 92312
+    },
+    {
+      "date": "2025-02-19",
+      "Manhattan": 83035,
+      "Queens": 8305,
+      "Brooklyn": 751,
+      "Bronx": 187,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 92283
+    },
+    {
+      "date": "2025-02-20",
+      "Manhattan": 83371,
+      "Queens": 8357,
+      "Brooklyn": 732,
+      "Bronx": 191,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 92654
+    },
+    {
+      "date": "2025-02-21",
+      "Manhattan": 82681,
+      "Queens": 8409,
+      "Brooklyn": 732,
+      "Bronx": 196,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 92023
+    },
+    {
+      "date": "2025-02-22",
+      "Manhattan": 82891,
+      "Queens": 8582,
+      "Brooklyn": 743,
+      "Bronx": 199,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 92418
+    },
+    {
+      "date": "2025-02-23",
+      "Manhattan": 83327,
+      "Queens": 8973,
+      "Brooklyn": 771,
+      "Bronx": 207,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93283
+    },
+    {
+      "date": "2025-02-24",
+      "Manhattan": 84407,
+      "Queens": 8872,
+      "Brooklyn": 832,
+      "Bronx": 226,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 94342
+    },
+    {
+      "date": "2025-02-25",
+      "Manhattan": 84736,
+      "Queens": 8581,
+      "Brooklyn": 840,
+      "Bronx": 229,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 94391
+    },
+    {
+      "date": "2025-02-26",
+      "Manhattan": 85194,
+      "Queens": 8748,
+      "Brooklyn": 846,
+      "Bronx": 234,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 95026
+    },
+    {
+      "date": "2025-02-27",
+      "Manhattan": 85545,
+      "Queens": 8927,
+      "Brooklyn": 851,
+      "Bronx": 232,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 95560
+    },
+    {
+      "date": "2025-02-28",
+      "Manhattan": 86305,
+      "Queens": 9064,
+      "Brooklyn": 862,
+      "Bronx": 236,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 96471
+    },
+    {
+      "date": "2025-03-01",
+      "Manhattan": 73377,
+      "Queens": 0,
+      "Brooklyn": 0,
+      "Bronx": 0,
+      "Staten Island": 0,
+      "EWR": 0,
+      "total": 73377
+    },
+    {
+      "date": "2025-03-31",
+      "Manhattan": 63572,
+      "Queens": 0,
+      "Brooklyn": 0,
+      "Bronx": 0,
+      "Staten Island": 0,
+      "EWR": 0,
+      "total": 63572
+    },
+    {
+      "date": "2025-04-01",
+      "Manhattan": 66777,
+      "Queens": 9629,
+      "Brooklyn": 886,
+      "Bronx": 246,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 77543
+    },
+    {
+      "date": "2025-04-02",
+      "Manhattan": 69087,
+      "Queens": 9470,
+      "Brooklyn": 903,
+      "Bronx": 262,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 79723
+    },
+    {
+      "date": "2025-04-03",
+      "Manhattan": 70309,
+      "Queens": 9439,
+      "Brooklyn": 915,
+      "Bronx": 270,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 80939
+    },
+    {
+      "date": "2025-04-04",
+      "Manhattan": 69875,
+      "Queens": 9561,
+      "Brooklyn": 930,
+      "Bronx": 274,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 80645
+    },
+    {
+      "date": "2025-04-05",
+      "Manhattan": 71074,
+      "Queens": 9348,
+      "Brooklyn": 916,
+      "Bronx": 259,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 81603
+    },
+    {
+      "date": "2025-04-06",
+      "Manhattan": 81965,
+      "Queens": 9609,
+      "Brooklyn": 922,
+      "Bronx": 244,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 92745
+    },
+    {
+      "date": "2025-04-07",
+      "Manhattan": 93938,
+      "Queens": 9808,
+      "Brooklyn": 920,
+      "Bronx": 232,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 104903
+    },
+    {
+      "date": "2025-04-08",
+      "Manhattan": 94717,
+      "Queens": 9464,
+      "Brooklyn": 921,
+      "Bronx": 235,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 105343
+    },
+    {
+      "date": "2025-04-09",
+      "Manhattan": 94713,
+      "Queens": 9478,
+      "Brooklyn": 913,
+      "Bronx": 231,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 105341
+    },
+    {
+      "date": "2025-04-10",
+      "Manhattan": 95521,
+      "Queens": 9423,
+      "Brooklyn": 928,
+      "Bronx": 230,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 106108
+    },
+    {
+      "date": "2025-04-11",
+      "Manhattan": 96121,
+      "Queens": 9442,
+      "Brooklyn": 930,
+      "Bronx": 231,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 106730
+    },
+    {
+      "date": "2025-04-12",
+      "Manhattan": 94908,
+      "Queens": 9412,
+      "Brooklyn": 906,
+      "Bronx": 229,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 105460
+    },
+    {
+      "date": "2025-04-13",
+      "Manhattan": 94141,
+      "Queens": 9211,
+      "Brooklyn": 906,
+      "Bronx": 237,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 104501
+    },
+    {
+      "date": "2025-04-14",
+      "Manhattan": 92571,
+      "Queens": 9009,
+      "Brooklyn": 892,
+      "Bronx": 254,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 102731
+    },
+    {
+      "date": "2025-04-15",
+      "Manhattan": 91705,
+      "Queens": 9052,
+      "Brooklyn": 911,
+      "Bronx": 248,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 101918
+    },
+    {
+      "date": "2025-04-16",
+      "Manhattan": 91803,
+      "Queens": 9123,
+      "Brooklyn": 932,
+      "Bronx": 250,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 102115
+    },
+    {
+      "date": "2025-04-17",
+      "Manhattan": 90720,
+      "Queens": 9213,
+      "Brooklyn": 931,
+      "Bronx": 248,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 101117
+    },
+    {
+      "date": "2025-04-18",
+      "Manhattan": 88829,
+      "Queens": 9203,
+      "Brooklyn": 933,
+      "Bronx": 235,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 99205
+    },
+    {
+      "date": "2025-04-19",
+      "Manhattan": 88124,
+      "Queens": 9168,
+      "Brooklyn": 980,
+      "Bronx": 239,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 98516
+    },
+    {
+      "date": "2025-04-20",
+      "Manhattan": 88144,
+      "Queens": 9260,
+      "Brooklyn": 995,
+      "Bronx": 234,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 98638
+    },
+    {
+      "date": "2025-04-21",
+      "Manhattan": 88787,
+      "Queens": 9542,
+      "Brooklyn": 1016,
+      "Bronx": 227,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 99577
+    },
+    {
+      "date": "2025-04-22",
+      "Manhattan": 88855,
+      "Queens": 9855,
+      "Brooklyn": 1007,
+      "Bronx": 231,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 99953
+    },
+    {
+      "date": "2025-04-23",
+      "Manhattan": 88745,
+      "Queens": 9938,
+      "Brooklyn": 1007,
+      "Bronx": 237,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 99932
+    },
+    {
+      "date": "2025-04-24",
+      "Manhattan": 89866,
+      "Queens": 10080,
+      "Brooklyn": 1008,
+      "Bronx": 238,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 101198
+    },
+    {
+      "date": "2025-04-25",
+      "Manhattan": 91947,
+      "Queens": 10196,
+      "Brooklyn": 1017,
+      "Bronx": 258,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 103424
+    },
+    {
+      "date": "2025-04-26",
+      "Manhattan": 94335,
+      "Queens": 10295,
+      "Brooklyn": 1000,
+      "Bronx": 262,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 105899
+    },
+    {
+      "date": "2025-04-27",
+      "Manhattan": 96053,
+      "Queens": 10555,
+      "Brooklyn": 1030,
+      "Bronx": 263,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 107907
+    },
+    {
+      "date": "2025-04-28",
+      "Manhattan": 96192,
+      "Queens": 10541,
+      "Brooklyn": 1025,
+      "Bronx": 255,
+      "Staten Island": 0,
+      "EWR": 4,
+      "total": 108017
+    },
+    {
+      "date": "2025-04-29",
+      "Manhattan": 96394,
+      "Queens": 10391,
+      "Brooklyn": 1019,
+      "Bronx": 261,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 108071
+    },
+    {
+      "date": "2025-04-30",
+      "Manhattan": 96410,
+      "Queens": 10489,
+      "Brooklyn": 1028,
+      "Bronx": 261,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 108194
+    },
+    {
+      "date": "2025-05-01",
+      "Manhattan": 96631,
+      "Queens": 10604,
+      "Brooklyn": 1020,
+      "Bronx": 266,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 108528
+    },
+    {
+      "date": "2025-05-02",
+      "Manhattan": 96320,
+      "Queens": 10595,
+      "Brooklyn": 1016,
+      "Bronx": 268,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 108205
+    },
+    {
+      "date": "2025-05-03",
+      "Manhattan": 95866,
+      "Queens": 10518,
+      "Brooklyn": 1046,
+      "Bronx": 265,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 107701
+    },
+    {
+      "date": "2025-05-04",
+      "Manhattan": 95356,
+      "Queens": 10476,
+      "Brooklyn": 1020,
+      "Bronx": 260,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 107120
+    },
+    {
+      "date": "2025-05-05",
+      "Manhattan": 96469,
+      "Queens": 10487,
+      "Brooklyn": 1032,
+      "Bronx": 266,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 108260
+    },
+    {
+      "date": "2025-05-06",
+      "Manhattan": 96853,
+      "Queens": 10711,
+      "Brooklyn": 1036,
+      "Bronx": 259,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 108866
+    },
+    {
+      "date": "2025-05-07",
+      "Manhattan": 97037,
+      "Queens": 10868,
+      "Brooklyn": 1032,
+      "Bronx": 251,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 109194
+    },
+    {
+      "date": "2025-05-08",
+      "Manhattan": 97504,
+      "Queens": 10759,
+      "Brooklyn": 1047,
+      "Bronx": 249,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 109566
+    },
+    {
+      "date": "2025-05-09",
+      "Manhattan": 97654,
+      "Queens": 10942,
+      "Brooklyn": 1060,
+      "Bronx": 235,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 109899
+    },
+    {
+      "date": "2025-05-10",
+      "Manhattan": 97243,
+      "Queens": 11135,
+      "Brooklyn": 1035,
+      "Bronx": 237,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 109658
+    },
+    {
+      "date": "2025-05-11",
+      "Manhattan": 97846,
+      "Queens": 11207,
+      "Brooklyn": 1038,
+      "Bronx": 244,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 110342
+    },
+    {
+      "date": "2025-05-12",
+      "Manhattan": 97613,
+      "Queens": 11383,
+      "Brooklyn": 1039,
+      "Bronx": 240,
+      "Staten Island": 4,
+      "EWR": 4,
+      "total": 110283
+    },
+    {
+      "date": "2025-05-13",
+      "Manhattan": 98625,
+      "Queens": 11306,
+      "Brooklyn": 1033,
+      "Bronx": 240,
+      "Staten Island": 4,
+      "EWR": 0,
+      "total": 111209
+    },
+    {
+      "date": "2025-05-14",
+      "Manhattan": 98430,
+      "Queens": 11222,
+      "Brooklyn": 1023,
+      "Bronx": 239,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 110921
+    },
+    {
+      "date": "2025-05-15",
+      "Manhattan": 97981,
+      "Queens": 11554,
+      "Brooklyn": 1029,
+      "Bronx": 236,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 110807
+    },
+    {
+      "date": "2025-05-16",
+      "Manhattan": 97768,
+      "Queens": 11737,
+      "Brooklyn": 1041,
+      "Bronx": 238,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 110790
+    },
+    {
+      "date": "2025-05-17",
+      "Manhattan": 97826,
+      "Queens": 11990,
+      "Brooklyn": 1069,
+      "Bronx": 237,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 111128
+    },
+    {
+      "date": "2025-05-18",
+      "Manhattan": 96991,
+      "Queens": 12130,
+      "Brooklyn": 1047,
+      "Bronx": 239,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 110413
+    },
+    {
+      "date": "2025-05-19",
+      "Manhattan": 97212,
+      "Queens": 12173,
+      "Brooklyn": 1046,
+      "Bronx": 239,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 110677
+    },
+    {
+      "date": "2025-05-20",
+      "Manhattan": 96618,
+      "Queens": 12185,
+      "Brooklyn": 1060,
+      "Bronx": 241,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 110108
+    },
+    {
+      "date": "2025-05-21",
+      "Manhattan": 97545,
+      "Queens": 12191,
+      "Brooklyn": 1081,
+      "Bronx": 247,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 111070
+    },
+    {
+      "date": "2025-05-22",
+      "Manhattan": 96544,
+      "Queens": 11989,
+      "Brooklyn": 1076,
+      "Bronx": 247,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109862
+    },
+    {
+      "date": "2025-05-23",
+      "Manhattan": 94317,
+      "Queens": 11776,
+      "Brooklyn": 1080,
+      "Bronx": 249,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 107428
+    },
+    {
+      "date": "2025-05-24",
+      "Manhattan": 90239,
+      "Queens": 11421,
+      "Brooklyn": 1065,
+      "Bronx": 247,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 102978
+    },
+    {
+      "date": "2025-05-25",
+      "Manhattan": 88125,
+      "Queens": 10900,
+      "Brooklyn": 1068,
+      "Bronx": 252,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 100350
+    },
+    {
+      "date": "2025-05-26",
+      "Manhattan": 83398,
+      "Queens": 10855,
+      "Brooklyn": 1010,
+      "Bronx": 234,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95501
+    },
+    {
+      "date": "2025-05-27",
+      "Manhattan": 81359,
+      "Queens": 10987,
+      "Brooklyn": 1007,
+      "Bronx": 240,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93598
+    },
+    {
+      "date": "2025-05-28",
+      "Manhattan": 80411,
+      "Queens": 10990,
+      "Brooklyn": 1001,
+      "Bronx": 239,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 92645
+    },
+    {
+      "date": "2025-05-29",
+      "Manhattan": 80246,
+      "Queens": 10903,
+      "Brooklyn": 997,
+      "Bronx": 239,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 92388
+    },
+    {
+      "date": "2025-05-30",
+      "Manhattan": 81743,
+      "Queens": 10783,
+      "Brooklyn": 978,
+      "Bronx": 235,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93744
+    },
+    {
+      "date": "2025-05-31",
+      "Manhattan": 84616,
+      "Queens": 10946,
+      "Brooklyn": 961,
+      "Bronx": 234,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 96762
+    },
+    {
+      "date": "2025-06-01",
+      "Manhattan": 86236,
+      "Queens": 11392,
+      "Brooklyn": 974,
+      "Bronx": 227,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 98835
+    },
+    {
+      "date": "2025-06-02",
+      "Manhattan": 89672,
+      "Queens": 11316,
+      "Brooklyn": 1032,
+      "Bronx": 250,
+      "Staten Island": 0,
+      "EWR": 3,
+      "total": 102274
+    },
+    {
+      "date": "2025-06-03",
+      "Manhattan": 91195,
+      "Queens": 11161,
+      "Brooklyn": 1045,
+      "Bronx": 246,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 103653
+    },
+    {
+      "date": "2025-06-04",
+      "Manhattan": 91773,
+      "Queens": 11103,
+      "Brooklyn": 1037,
+      "Bronx": 251,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 104170
+    },
+    {
+      "date": "2025-06-05",
+      "Manhattan": 92918,
+      "Queens": 11119,
+      "Brooklyn": 1048,
+      "Bronx": 258,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 105347
+    },
+    {
+      "date": "2025-06-06",
+      "Manhattan": 92238,
+      "Queens": 11237,
+      "Brooklyn": 1039,
+      "Bronx": 268,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 104787
+    },
+    {
+      "date": "2025-06-07",
+      "Manhattan": 91502,
+      "Queens": 11497,
+      "Brooklyn": 1043,
+      "Bronx": 271,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 104317
+    },
+    {
+      "date": "2025-06-08",
+      "Manhattan": 91177,
+      "Queens": 11567,
+      "Brooklyn": 1029,
+      "Bronx": 274,
+      "Staten Island": 3,
+      "EWR": 2,
+      "total": 104052
+    },
+    {
+      "date": "2025-06-09",
+      "Manhattan": 92094,
+      "Queens": 11638,
+      "Brooklyn": 1036,
+      "Bronx": 272,
+      "Staten Island": 3,
+      "EWR": 2,
+      "total": 105044
+    },
+    {
+      "date": "2025-06-10",
+      "Manhattan": 91993,
+      "Queens": 11627,
+      "Brooklyn": 1041,
+      "Bronx": 274,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 104940
+    },
+    {
+      "date": "2025-06-11",
+      "Manhattan": 91550,
+      "Queens": 11582,
+      "Brooklyn": 1065,
+      "Bronx": 271,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 104472
+    },
+    {
+      "date": "2025-06-12",
+      "Manhattan": 91361,
+      "Queens": 11534,
+      "Brooklyn": 1063,
+      "Bronx": 281,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 104245
+    },
+    {
+      "date": "2025-06-13",
+      "Manhattan": 91567,
+      "Queens": 11388,
+      "Brooklyn": 1121,
+      "Bronx": 273,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 104354
+    },
+    {
+      "date": "2025-06-14",
+      "Manhattan": 90876,
+      "Queens": 10992,
+      "Brooklyn": 1113,
+      "Bronx": 275,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 103260
+    },
+    {
+      "date": "2025-06-15",
+      "Manhattan": 90435,
+      "Queens": 10700,
+      "Brooklyn": 1113,
+      "Bronx": 276,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 102528
+    },
+    {
+      "date": "2025-06-16",
+      "Manhattan": 89628,
+      "Queens": 10605,
+      "Brooklyn": 1127,
+      "Bronx": 281,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 101642
+    },
+    {
+      "date": "2025-06-17",
+      "Manhattan": 89209,
+      "Queens": 10360,
+      "Brooklyn": 1121,
+      "Bronx": 292,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 100987
+    },
+    {
+      "date": "2025-06-18",
+      "Manhattan": 89065,
+      "Queens": 10297,
+      "Brooklyn": 1107,
+      "Bronx": 309,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 100781
+    },
+    {
+      "date": "2025-06-19",
+      "Manhattan": 86662,
+      "Queens": 10193,
+      "Brooklyn": 1082,
+      "Bronx": 277,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 98219
+    },
+    {
+      "date": "2025-06-20",
+      "Manhattan": 85786,
+      "Queens": 10406,
+      "Brooklyn": 1062,
+      "Bronx": 291,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 97549
+    },
+    {
+      "date": "2025-06-21",
+      "Manhattan": 86024,
+      "Queens": 10517,
+      "Brooklyn": 1096,
+      "Bronx": 296,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 97937
+    },
+    {
+      "date": "2025-06-22",
+      "Manhattan": 85973,
+      "Queens": 10762,
+      "Brooklyn": 1102,
+      "Bronx": 290,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 98131
+    },
+    {
+      "date": "2025-06-23",
+      "Manhattan": 86622,
+      "Queens": 10961,
+      "Brooklyn": 1106,
+      "Bronx": 286,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 98981
+    },
+    {
+      "date": "2025-06-24",
+      "Manhattan": 87406,
+      "Queens": 11159,
+      "Brooklyn": 1127,
+      "Bronx": 272,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 99970
+    },
+    {
+      "date": "2025-06-25",
+      "Manhattan": 87544,
+      "Queens": 11107,
+      "Brooklyn": 1141,
+      "Bronx": 256,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 100053
+    },
+    {
+      "date": "2025-06-26",
+      "Manhattan": 88638,
+      "Queens": 11156,
+      "Brooklyn": 1191,
+      "Bronx": 276,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 101268
+    },
+    {
+      "date": "2025-06-27",
+      "Manhattan": 88689,
+      "Queens": 11219,
+      "Brooklyn": 1172,
+      "Bronx": 266,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 101352
+    },
+    {
+      "date": "2025-06-28",
+      "Manhattan": 88612,
+      "Queens": 11266,
+      "Brooklyn": 1140,
+      "Bronx": 265,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 101289
+    },
+    {
+      "date": "2025-06-29",
+      "Manhattan": 88881,
+      "Queens": 11003,
+      "Brooklyn": 1147,
+      "Bronx": 263,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 101301
+    },
+    {
+      "date": "2025-06-30",
+      "Manhattan": 87760,
+      "Queens": 10425,
+      "Brooklyn": 1141,
+      "Bronx": 265,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 99597
+    },
+    {
+      "date": "2025-07-01",
+      "Manhattan": 86236,
+      "Queens": 10182,
+      "Brooklyn": 1130,
+      "Bronx": 274,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 97829
+    },
+    {
+      "date": "2025-07-02",
+      "Manhattan": 82359,
+      "Queens": 10078,
+      "Brooklyn": 1116,
+      "Bronx": 278,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 93837
+    },
+    {
+      "date": "2025-07-03",
+      "Manhattan": 77698,
+      "Queens": 9703,
+      "Brooklyn": 1090,
+      "Bronx": 281,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 88778
+    },
+    {
+      "date": "2025-07-04",
+      "Manhattan": 71509,
+      "Queens": 9098,
+      "Brooklyn": 1022,
+      "Bronx": 258,
+      "Staten Island": 0,
+      "EWR": 0,
+      "total": 81887
+    },
+    {
+      "date": "2025-07-05",
+      "Manhattan": 66772,
+      "Queens": 8910,
+      "Brooklyn": 1023,
+      "Bronx": 258,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 76965
+    },
+    {
+      "date": "2025-07-06",
+      "Manhattan": 64280,
+      "Queens": 9088,
+      "Brooklyn": 1003,
+      "Bronx": 262,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 74638
+    },
+    {
+      "date": "2025-07-07",
+      "Manhattan": 63127,
+      "Queens": 9474,
+      "Brooklyn": 995,
+      "Bronx": 263,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 73866
+    },
+    {
+      "date": "2025-07-08",
+      "Manhattan": 63299,
+      "Queens": 9705,
+      "Brooklyn": 1009,
+      "Bronx": 263,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 74282
+    },
+    {
+      "date": "2025-07-09",
+      "Manhattan": 65717,
+      "Queens": 9950,
+      "Brooklyn": 1024,
+      "Bronx": 269,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 76965
+    },
+    {
+      "date": "2025-07-10",
+      "Manhattan": 68644,
+      "Queens": 10267,
+      "Brooklyn": 1021,
+      "Bronx": 268,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 80207
+    },
+    {
+      "date": "2025-07-11",
+      "Manhattan": 73699,
+      "Queens": 10570,
+      "Brooklyn": 1101,
+      "Bronx": 301,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 85678
+    },
+    {
+      "date": "2025-07-12",
+      "Manhattan": 77540,
+      "Queens": 10644,
+      "Brooklyn": 1124,
+      "Bronx": 296,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 89610
+    },
+    {
+      "date": "2025-07-13",
+      "Manhattan": 79216,
+      "Queens": 10516,
+      "Brooklyn": 1155,
+      "Bronx": 304,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 91196
+    },
+    {
+      "date": "2025-07-14",
+      "Manhattan": 81185,
+      "Queens": 10484,
+      "Brooklyn": 1163,
+      "Bronx": 304,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 93142
+    },
+    {
+      "date": "2025-07-15",
+      "Manhattan": 81335,
+      "Queens": 10706,
+      "Brooklyn": 1161,
+      "Bronx": 299,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93505
+    },
+    {
+      "date": "2025-07-16",
+      "Manhattan": 82158,
+      "Queens": 10620,
+      "Brooklyn": 1152,
+      "Bronx": 305,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 94240
+    },
+    {
+      "date": "2025-07-17",
+      "Manhattan": 83424,
+      "Queens": 10708,
+      "Brooklyn": 1168,
+      "Bronx": 310,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95616
+    },
+    {
+      "date": "2025-07-18",
+      "Manhattan": 83476,
+      "Queens": 10752,
+      "Brooklyn": 1179,
+      "Bronx": 306,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 95719
+    },
+    {
+      "date": "2025-07-19",
+      "Manhattan": 83326,
+      "Queens": 10712,
+      "Brooklyn": 1183,
+      "Bronx": 313,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 95540
+    },
+    {
+      "date": "2025-07-20",
+      "Manhattan": 83664,
+      "Queens": 10764,
+      "Brooklyn": 1173,
+      "Bronx": 310,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 95918
+    },
+    {
+      "date": "2025-07-21",
+      "Manhattan": 82329,
+      "Queens": 10775,
+      "Brooklyn": 1166,
+      "Bronx": 319,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 94595
+    },
+    {
+      "date": "2025-07-22",
+      "Manhattan": 81434,
+      "Queens": 10389,
+      "Brooklyn": 1190,
+      "Bronx": 321,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 93341
+    },
+    {
+      "date": "2025-07-23",
+      "Manhattan": 80033,
+      "Queens": 10315,
+      "Brooklyn": 1192,
+      "Bronx": 320,
+      "Staten Island": 2,
+      "EWR": 2,
+      "total": 91864
+    },
+    {
+      "date": "2025-07-24",
+      "Manhattan": 79098,
+      "Queens": 10158,
+      "Brooklyn": 1187,
+      "Bronx": 320,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 90767
+    },
+    {
+      "date": "2025-07-25",
+      "Manhattan": 79586,
+      "Queens": 10084,
+      "Brooklyn": 1190,
+      "Bronx": 322,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 91187
+    },
+    {
+      "date": "2025-07-26",
+      "Manhattan": 79402,
+      "Queens": 10325,
+      "Brooklyn": 1181,
+      "Bronx": 325,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 91238
+    },
+    {
+      "date": "2025-07-27",
+      "Manhattan": 78997,
+      "Queens": 10134,
+      "Brooklyn": 1190,
+      "Bronx": 324,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 90652
+    },
+    {
+      "date": "2025-07-28",
+      "Manhattan": 79700,
+      "Queens": 10221,
+      "Brooklyn": 1194,
+      "Bronx": 320,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 91436
+    },
+    {
+      "date": "2025-07-29",
+      "Manhattan": 80879,
+      "Queens": 10224,
+      "Brooklyn": 1161,
+      "Bronx": 337,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 92608
+    },
+    {
+      "date": "2025-07-30",
+      "Manhattan": 81758,
+      "Queens": 10089,
+      "Brooklyn": 1159,
+      "Bronx": 335,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 93347
+    },
+    {
+      "date": "2025-07-31",
+      "Manhattan": 81367,
+      "Queens": 10079,
+      "Brooklyn": 1169,
+      "Bronx": 330,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 92952
+    },
+    {
+      "date": "2025-08-01",
+      "Manhattan": 80052,
+      "Queens": 10202,
+      "Brooklyn": 1166,
+      "Bronx": 324,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 91750
+    },
+    {
+      "date": "2025-08-02",
+      "Manhattan": 79423,
+      "Queens": 10039,
+      "Brooklyn": 1162,
+      "Bronx": 318,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 90949
+    },
+    {
+      "date": "2025-08-03",
+      "Manhattan": 78935,
+      "Queens": 10112,
+      "Brooklyn": 1169,
+      "Bronx": 316,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 90538
+    },
+    {
+      "date": "2025-08-04",
+      "Manhattan": 77719,
+      "Queens": 9786,
+      "Brooklyn": 1176,
+      "Bronx": 327,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 89014
+    },
+    {
+      "date": "2025-08-05",
+      "Manhattan": 76176,
+      "Queens": 9738,
+      "Brooklyn": 1190,
+      "Bronx": 322,
+      "Staten Island": 0,
+      "EWR": 4,
+      "total": 87430
+    },
+    {
+      "date": "2025-08-06",
+      "Manhattan": 75089,
+      "Queens": 9800,
+      "Brooklyn": 1227,
+      "Bronx": 325,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 86447
+    },
+    {
+      "date": "2025-08-07",
+      "Manhattan": 74349,
+      "Queens": 9736,
+      "Brooklyn": 1233,
+      "Bronx": 346,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 85670
+    },
+    {
+      "date": "2025-08-08",
+      "Manhattan": 74278,
+      "Queens": 9540,
+      "Brooklyn": 1287,
+      "Bronx": 361,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 85472
+    },
+    {
+      "date": "2025-08-09",
+      "Manhattan": 73565,
+      "Queens": 9437,
+      "Brooklyn": 1301,
+      "Bronx": 370,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 84678
+    },
+    {
+      "date": "2025-08-10",
+      "Manhattan": 72978,
+      "Queens": 9470,
+      "Brooklyn": 1317,
+      "Bronx": 377,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 84148
+    },
+    {
+      "date": "2025-08-11",
+      "Manhattan": 72656,
+      "Queens": 9552,
+      "Brooklyn": 1350,
+      "Bronx": 378,
+      "Staten Island": 0,
+      "EWR": 4,
+      "total": 83939
+    },
+    {
+      "date": "2025-08-12",
+      "Manhattan": 72599,
+      "Queens": 9540,
+      "Brooklyn": 1380,
+      "Bronx": 376,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 83901
+    },
+    {
+      "date": "2025-08-13",
+      "Manhattan": 73155,
+      "Queens": 9494,
+      "Brooklyn": 1380,
+      "Bronx": 386,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 84422
+    },
+    {
+      "date": "2025-08-14",
+      "Manhattan": 73342,
+      "Queens": 9712,
+      "Brooklyn": 1389,
+      "Bronx": 382,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 84832
+    },
+    {
+      "date": "2025-08-15",
+      "Manhattan": 73381,
+      "Queens": 9835,
+      "Brooklyn": 1365,
+      "Bronx": 377,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 84965
+    },
+    {
+      "date": "2025-08-16",
+      "Manhattan": 74056,
+      "Queens": 9909,
+      "Brooklyn": 1380,
+      "Bronx": 374,
+      "Staten Island": 4,
+      "EWR": 5,
+      "total": 85727
+    },
+    {
+      "date": "2025-08-17",
+      "Manhattan": 74933,
+      "Queens": 9874,
+      "Brooklyn": 1374,
+      "Bronx": 378,
+      "Staten Island": 4,
+      "EWR": 5,
+      "total": 86568
+    },
+    {
+      "date": "2025-08-18",
+      "Manhattan": 74283,
+      "Queens": 10034,
+      "Brooklyn": 1363,
+      "Bronx": 380,
+      "Staten Island": 4,
+      "EWR": 5,
+      "total": 86069
+    },
+    {
+      "date": "2025-08-19",
+      "Manhattan": 73241,
+      "Queens": 10157,
+      "Brooklyn": 1371,
+      "Bronx": 384,
+      "Staten Island": 4,
+      "EWR": 5,
+      "total": 85161
+    },
+    {
+      "date": "2025-08-20",
+      "Manhattan": 72862,
+      "Queens": 10339,
+      "Brooklyn": 1380,
+      "Bronx": 394,
+      "Staten Island": 4,
+      "EWR": 5,
+      "total": 84983
+    },
+    {
+      "date": "2025-08-21",
+      "Manhattan": 72098,
+      "Queens": 10379,
+      "Brooklyn": 1392,
+      "Bronx": 403,
+      "Staten Island": 4,
+      "EWR": 4,
+      "total": 84280
+    },
+    {
+      "date": "2025-08-22",
+      "Manhattan": 71870,
+      "Queens": 10507,
+      "Brooklyn": 1404,
+      "Bronx": 431,
+      "Staten Island": 4,
+      "EWR": 4,
+      "total": 84221
+    },
+    {
+      "date": "2025-08-23",
+      "Manhattan": 72271,
+      "Queens": 10642,
+      "Brooklyn": 1421,
+      "Bronx": 435,
+      "Staten Island": 4,
+      "EWR": 4,
+      "total": 84777
+    },
+    {
+      "date": "2025-08-24",
+      "Manhattan": 72102,
+      "Queens": 10875,
+      "Brooklyn": 1444,
+      "Bronx": 437,
+      "Staten Island": 4,
+      "EWR": 3,
+      "total": 84865
+    },
+    {
+      "date": "2025-08-25",
+      "Manhattan": 72216,
+      "Queens": 10944,
+      "Brooklyn": 1488,
+      "Bronx": 450,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 85105
+    },
+    {
+      "date": "2025-08-26",
+      "Manhattan": 72135,
+      "Queens": 11202,
+      "Brooklyn": 1493,
+      "Bronx": 462,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 85297
+    },
+    {
+      "date": "2025-08-27",
+      "Manhattan": 70305,
+      "Queens": 11485,
+      "Brooklyn": 1513,
+      "Bronx": 446,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 83754
+    },
+    {
+      "date": "2025-08-28",
+      "Manhattan": 69957,
+      "Queens": 11713,
+      "Brooklyn": 1515,
+      "Bronx": 446,
+      "Staten Island": 0,
+      "EWR": 3,
+      "total": 83633
+    },
+    {
+      "date": "2025-08-29",
+      "Manhattan": 69506,
+      "Queens": 11999,
+      "Brooklyn": 1515,
+      "Bronx": 439,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 83465
+    },
+    {
+      "date": "2025-08-30",
+      "Manhattan": 68674,
+      "Queens": 12257,
+      "Brooklyn": 1505,
+      "Bronx": 443,
+      "Staten Island": 0,
+      "EWR": 5,
+      "total": 82884
+    },
+    {
+      "date": "2025-08-31",
+      "Manhattan": 68303,
+      "Queens": 12238,
+      "Brooklyn": 1501,
+      "Bronx": 439,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 82488
+    },
+    {
+      "date": "2025-09-01",
+      "Manhattan": 66953,
+      "Queens": 12521,
+      "Brooklyn": 1348,
+      "Bronx": 384,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 81213
+    },
+    {
+      "date": "2025-09-02",
+      "Manhattan": 67675,
+      "Queens": 12784,
+      "Brooklyn": 1335,
+      "Bronx": 398,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 82198
+    },
+    {
+      "date": "2025-09-03",
+      "Manhattan": 69870,
+      "Queens": 12741,
+      "Brooklyn": 1342,
+      "Bronx": 411,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 84371
+    },
+    {
+      "date": "2025-09-04",
+      "Manhattan": 73574,
+      "Queens": 12424,
+      "Brooklyn": 1352,
+      "Bronx": 402,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 87759
+    },
+    {
+      "date": "2025-09-05",
+      "Manhattan": 77090,
+      "Queens": 12318,
+      "Brooklyn": 1360,
+      "Bronx": 394,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 91167
+    },
+    {
+      "date": "2025-09-06",
+      "Manhattan": 80068,
+      "Queens": 11960,
+      "Brooklyn": 1371,
+      "Bronx": 391,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 93796
+    },
+    {
+      "date": "2025-09-07",
+      "Manhattan": 81776,
+      "Queens": 12051,
+      "Brooklyn": 1350,
+      "Bronx": 393,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 95578
+    },
+    {
+      "date": "2025-09-08",
+      "Manhattan": 85914,
+      "Queens": 11685,
+      "Brooklyn": 1509,
+      "Bronx": 439,
+      "Staten Island": 2,
+      "EWR": 0,
+      "total": 99549
+    },
+    {
+      "date": "2025-09-09",
+      "Manhattan": 88488,
+      "Queens": 11162,
+      "Brooklyn": 1554,
+      "Bronx": 432,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 101643
+    },
+    {
+      "date": "2025-09-10",
+      "Manhattan": 90000,
+      "Queens": 11049,
+      "Brooklyn": 1558,
+      "Bronx": 425,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 103039
+    },
+    {
+      "date": "2025-09-11",
+      "Manhattan": 90281,
+      "Queens": 11088,
+      "Brooklyn": 1569,
+      "Bronx": 426,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 103372
+    },
+    {
+      "date": "2025-09-12",
+      "Manhattan": 90923,
+      "Queens": 10941,
+      "Brooklyn": 1580,
+      "Bronx": 429,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 103880
+    },
+    {
+      "date": "2025-09-13",
+      "Manhattan": 92223,
+      "Queens": 10902,
+      "Brooklyn": 1579,
+      "Bronx": 435,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 105147
+    },
+    {
+      "date": "2025-09-14",
+      "Manhattan": 93478,
+      "Queens": 10790,
+      "Brooklyn": 1605,
+      "Bronx": 437,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 106318
+    },
+    {
+      "date": "2025-09-15",
+      "Manhattan": 93849,
+      "Queens": 10855,
+      "Brooklyn": 1595,
+      "Bronx": 444,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 106750
+    },
+    {
+      "date": "2025-09-16",
+      "Manhattan": 94351,
+      "Queens": 10915,
+      "Brooklyn": 1579,
+      "Bronx": 453,
+      "Staten Island": 3,
+      "EWR": 4,
+      "total": 107304
+    },
+    {
+      "date": "2025-09-17",
+      "Manhattan": 94782,
+      "Queens": 10854,
+      "Brooklyn": 1588,
+      "Bronx": 457,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 107686
+    },
+    {
+      "date": "2025-09-18",
+      "Manhattan": 95410,
+      "Queens": 11005,
+      "Brooklyn": 1634,
+      "Bronx": 463,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 108518
+    },
+    {
+      "date": "2025-09-19",
+      "Manhattan": 95427,
+      "Queens": 11064,
+      "Brooklyn": 1646,
+      "Bronx": 474,
+      "Staten Island": 2,
+      "EWR": 3,
+      "total": 108615
+    },
+    {
+      "date": "2025-09-20",
+      "Manhattan": 95163,
+      "Queens": 11217,
+      "Brooklyn": 1671,
+      "Bronx": 481,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 108537
+    },
+    {
+      "date": "2025-09-21",
+      "Manhattan": 94869,
+      "Queens": 11349,
+      "Brooklyn": 1695,
+      "Bronx": 488,
+      "Staten Island": 3,
+      "EWR": 3,
+      "total": 108408
+    },
+    {
+      "date": "2025-09-22",
+      "Manhattan": 94064,
+      "Queens": 11265,
+      "Brooklyn": 1720,
+      "Bronx": 489,
+      "Staten Island": 4,
+      "EWR": 3,
+      "total": 107545
+    },
+    {
+      "date": "2025-09-23",
+      "Manhattan": 91363,
+      "Queens": 11101,
+      "Brooklyn": 1705,
+      "Bronx": 481,
+      "Staten Island": 4,
+      "EWR": 3,
+      "total": 104656
+    },
+    {
+      "date": "2025-09-24",
+      "Manhattan": 89579,
+      "Queens": 11142,
+      "Brooklyn": 1730,
+      "Bronx": 489,
+      "Staten Island": 4,
+      "EWR": 3,
+      "total": 102946
+    },
+    {
+      "date": "2025-09-25",
+      "Manhattan": 88604,
+      "Queens": 11088,
+      "Brooklyn": 1719,
+      "Bronx": 501,
+      "Staten Island": 4,
+      "EWR": 2,
+      "total": 101918
+    },
+    {
+      "date": "2025-09-26",
+      "Manhattan": 88570,
+      "Queens": 11189,
+      "Brooklyn": 1724,
+      "Bronx": 507,
+      "Staten Island": 4,
+      "EWR": 2,
+      "total": 101996
+    },
+    {
+      "date": "2025-09-27",
+      "Manhattan": 89176,
+      "Queens": 11024,
+      "Brooklyn": 1725,
+      "Bronx": 513,
+      "Staten Island": 4,
+      "EWR": 3,
+      "total": 102444
+    },
+    {
+      "date": "2025-09-28",
+      "Manhattan": 89158,
+      "Queens": 10937,
+      "Brooklyn": 1715,
+      "Bronx": 515,
+      "Staten Island": 4,
+      "EWR": 3,
+      "total": 102332
+    },
+    {
+      "date": "2025-09-29",
+      "Manhattan": 89652,
+      "Queens": 10990,
+      "Brooklyn": 1729,
+      "Bronx": 520,
+      "Staten Island": 7,
+      "EWR": 3,
+      "total": 102902
+    },
+    {
+      "date": "2025-09-30",
+      "Manhattan": 92037,
+      "Queens": 11140,
+      "Brooklyn": 1765,
+      "Bronx": 521,
+      "Staten Island": 7,
+      "EWR": 4,
+      "total": 105474
+    },
+    {
+      "date": "2025-10-01",
+      "Manhattan": 92527,
+      "Queens": 10973,
+      "Brooklyn": 1754,
+      "Bronx": 534,
+      "Staten Island": 7,
+      "EWR": 0,
+      "total": 105796
+    },
+    {
+      "date": "2025-10-02",
+      "Manhattan": 91387,
+      "Queens": 10744,
+      "Brooklyn": 1701,
+      "Bronx": 535,
+      "Staten Island": 7,
+      "EWR": 4,
+      "total": 104379
+    },
+    {
+      "date": "2025-10-03",
+      "Manhattan": 90981,
+      "Queens": 10480,
+      "Brooklyn": 1704,
+      "Bronx": 549,
+      "Staten Island": 7,
+      "EWR": 4,
+      "total": 103725
+    },
+    {
+      "date": "2025-10-04",
+      "Manhattan": 90145,
+      "Queens": 10486,
+      "Brooklyn": 1721,
+      "Bronx": 539,
+      "Staten Island": 6,
+      "EWR": 4,
+      "total": 102902
+    },
+    {
+      "date": "2025-10-05",
+      "Manhattan": 89676,
+      "Queens": 10587,
+      "Brooklyn": 1737,
+      "Bronx": 532,
+      "Staten Island": 6,
+      "EWR": 6,
+      "total": 102544
+    },
+    {
+      "date": "2025-10-06",
+      "Manhattan": 89602,
+      "Queens": 10545,
+      "Brooklyn": 1726,
+      "Bronx": 535,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 102415
+    },
+    {
+      "date": "2025-10-07",
+      "Manhattan": 89505,
+      "Queens": 10434,
+      "Brooklyn": 1719,
+      "Bronx": 540,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 102205
+    },
+    {
+      "date": "2025-10-08",
+      "Manhattan": 90681,
+      "Queens": 10539,
+      "Brooklyn": 1706,
+      "Bronx": 551,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 103482
+    },
+    {
+      "date": "2025-10-09",
+      "Manhattan": 93213,
+      "Queens": 10811,
+      "Brooklyn": 1769,
+      "Bronx": 544,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 106343
+    },
+    {
+      "date": "2025-10-10",
+      "Manhattan": 94045,
+      "Queens": 11123,
+      "Brooklyn": 1719,
+      "Bronx": 536,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 107430
+    },
+    {
+      "date": "2025-10-11",
+      "Manhattan": 94662,
+      "Queens": 11261,
+      "Brooklyn": 1704,
+      "Bronx": 544,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 108178
+    },
+    {
+      "date": "2025-10-12",
+      "Manhattan": 95077,
+      "Queens": 10960,
+      "Brooklyn": 1676,
+      "Bronx": 549,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 108270
+    },
+    {
+      "date": "2025-10-13",
+      "Manhattan": 93606,
+      "Queens": 11113,
+      "Brooklyn": 1549,
+      "Bronx": 508,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 106784
+    },
+    {
+      "date": "2025-10-14",
+      "Manhattan": 93440,
+      "Queens": 11677,
+      "Brooklyn": 1536,
+      "Bronx": 520,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 107181
+    },
+    {
+      "date": "2025-10-15",
+      "Manhattan": 93429,
+      "Queens": 11914,
+      "Brooklyn": 1499,
+      "Bronx": 506,
+      "Staten Island": 3,
+      "EWR": 6,
+      "total": 107357
+    },
+    {
+      "date": "2025-10-16",
+      "Manhattan": 93458,
+      "Queens": 12028,
+      "Brooklyn": 1448,
+      "Bronx": 516,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 107459
+    },
+    {
+      "date": "2025-10-17",
+      "Manhattan": 93517,
+      "Queens": 11938,
+      "Brooklyn": 1466,
+      "Bronx": 519,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 107450
+    },
+    {
+      "date": "2025-10-18",
+      "Manhattan": 93278,
+      "Queens": 11911,
+      "Brooklyn": 1473,
+      "Bronx": 516,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 107186
+    },
+    {
+      "date": "2025-10-19",
+      "Manhattan": 93804,
+      "Queens": 12205,
+      "Brooklyn": 1467,
+      "Bronx": 518,
+      "Staten Island": 3,
+      "EWR": 6,
+      "total": 108003
+    },
+    {
+      "date": "2025-10-20",
+      "Manhattan": 95916,
+      "Queens": 12269,
+      "Brooklyn": 1512,
+      "Bronx": 566,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 110270
+    },
+    {
+      "date": "2025-10-21",
+      "Manhattan": 95899,
+      "Queens": 11995,
+      "Brooklyn": 1469,
+      "Bronx": 557,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109927
+    },
+    {
+      "date": "2025-10-22",
+      "Manhattan": 95862,
+      "Queens": 11908,
+      "Brooklyn": 1467,
+      "Bronx": 558,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109802
+    },
+    {
+      "date": "2025-10-23",
+      "Manhattan": 95795,
+      "Queens": 11886,
+      "Brooklyn": 1491,
+      "Bronx": 577,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109755
+    },
+    {
+      "date": "2025-10-24",
+      "Manhattan": 95775,
+      "Queens": 11866,
+      "Brooklyn": 1507,
+      "Bronx": 588,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 109741
+    },
+    {
+      "date": "2025-10-25",
+      "Manhattan": 96055,
+      "Queens": 11822,
+      "Brooklyn": 1480,
+      "Bronx": 588,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 109950
+    },
+    {
+      "date": "2025-10-26",
+      "Manhattan": 95957,
+      "Queens": 11745,
+      "Brooklyn": 1504,
+      "Bronx": 587,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109800
+    },
+    {
+      "date": "2025-10-27",
+      "Manhattan": 95725,
+      "Queens": 11564,
+      "Brooklyn": 1557,
+      "Bronx": 595,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109449
+    },
+    {
+      "date": "2025-10-28",
+      "Manhattan": 96111,
+      "Queens": 11397,
+      "Brooklyn": 1607,
+      "Bronx": 612,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109735
+    },
+    {
+      "date": "2025-10-29",
+      "Manhattan": 96001,
+      "Queens": 11283,
+      "Brooklyn": 1672,
+      "Bronx": 618,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 109582
+    },
+    {
+      "date": "2025-10-30",
+      "Manhattan": 94197,
+      "Queens": 10899,
+      "Brooklyn": 1645,
+      "Bronx": 612,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 107361
+    },
+    {
+      "date": "2025-10-31",
+      "Manhattan": 94359,
+      "Queens": 11005,
+      "Brooklyn": 1651,
+      "Bronx": 622,
+      "Staten Island": 3,
+      "EWR": 6,
+      "total": 107645
+    },
+    {
+      "date": "2025-11-01",
+      "Manhattan": 94924,
+      "Queens": 10998,
+      "Brooklyn": 1693,
+      "Bronx": 620,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 108244
+    },
+    {
+      "date": "2025-11-02",
+      "Manhattan": 95548,
+      "Queens": 10774,
+      "Brooklyn": 1743,
+      "Bronx": 608,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 108684
+    },
+    {
+      "date": "2025-11-03",
+      "Manhattan": 95813,
+      "Queens": 10667,
+      "Brooklyn": 1749,
+      "Bronx": 614,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 108852
+    },
+    {
+      "date": "2025-11-04",
+      "Manhattan": 95024,
+      "Queens": 10609,
+      "Brooklyn": 1740,
+      "Bronx": 609,
+      "Staten Island": 0,
+      "EWR": 7,
+      "total": 107989
+    },
+    {
+      "date": "2025-11-05",
+      "Manhattan": 94816,
+      "Queens": 10575,
+      "Brooklyn": 1721,
+      "Bronx": 613,
+      "Staten Island": 3,
+      "EWR": 6,
+      "total": 107734
+    },
+    {
+      "date": "2025-11-06",
+      "Manhattan": 96548,
+      "Queens": 10866,
+      "Brooklyn": 1733,
+      "Bronx": 619,
+      "Staten Island": 3,
+      "EWR": 6,
+      "total": 109776
+    },
+    {
+      "date": "2025-11-07",
+      "Manhattan": 96293,
+      "Queens": 10715,
+      "Brooklyn": 1723,
+      "Bronx": 617,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 109358
+    },
+    {
+      "date": "2025-11-08",
+      "Manhattan": 96124,
+      "Queens": 10619,
+      "Brooklyn": 1677,
+      "Bronx": 613,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 109041
+    },
+    {
+      "date": "2025-11-09",
+      "Manhattan": 95716,
+      "Queens": 10537,
+      "Brooklyn": 1608,
+      "Bronx": 623,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 108491
+    },
+    {
+      "date": "2025-11-10",
+      "Manhattan": 96123,
+      "Queens": 10732,
+      "Brooklyn": 1614,
+      "Bronx": 623,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 109099
+    },
+    {
+      "date": "2025-11-11",
+      "Manhattan": 95743,
+      "Queens": 10917,
+      "Brooklyn": 1574,
+      "Bronx": 590,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 108832
+    },
+    {
+      "date": "2025-11-12",
+      "Manhattan": 95472,
+      "Queens": 10961,
+      "Brooklyn": 1567,
+      "Bronx": 586,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 108594
+    },
+    {
+      "date": "2025-11-13",
+      "Manhattan": 95201,
+      "Queens": 10782,
+      "Brooklyn": 1576,
+      "Bronx": 577,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 108143
+    },
+    {
+      "date": "2025-11-14",
+      "Manhattan": 95599,
+      "Queens": 10624,
+      "Brooklyn": 1573,
+      "Bronx": 569,
+      "Staten Island": 1,
+      "EWR": 4,
+      "total": 108370
+    },
+    {
+      "date": "2025-11-15",
+      "Manhattan": 95859,
+      "Queens": 10569,
+      "Brooklyn": 1576,
+      "Bronx": 568,
+      "Staten Island": 1,
+      "EWR": 4,
+      "total": 108579
+    },
+    {
+      "date": "2025-11-16",
+      "Manhattan": 95939,
+      "Queens": 10703,
+      "Brooklyn": 1590,
+      "Bronx": 571,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 108809
+    },
+    {
+      "date": "2025-11-17",
+      "Manhattan": 95630,
+      "Queens": 10609,
+      "Brooklyn": 1635,
+      "Bronx": 585,
+      "Staten Island": 1,
+      "EWR": 4,
+      "total": 108465
+    },
+    {
+      "date": "2025-11-18",
+      "Manhattan": 97048,
+      "Queens": 10481,
+      "Brooklyn": 1730,
+      "Bronx": 644,
+      "Staten Island": 2,
+      "EWR": 4,
+      "total": 109910
+    },
+    {
+      "date": "2025-11-19",
+      "Manhattan": 97680,
+      "Queens": 10381,
+      "Brooklyn": 1782,
+      "Bronx": 664,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 110513
+    },
+    {
+      "date": "2025-11-20",
+      "Manhattan": 97759,
+      "Queens": 10413,
+      "Brooklyn": 1831,
+      "Bronx": 687,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 110696
+    },
+    {
+      "date": "2025-11-21",
+      "Manhattan": 97269,
+      "Queens": 10459,
+      "Brooklyn": 1884,
+      "Bronx": 703,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 110322
+    },
+    {
+      "date": "2025-11-22",
+      "Manhattan": 96288,
+      "Queens": 10486,
+      "Brooklyn": 1876,
+      "Bronx": 706,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 109363
+    },
+    {
+      "date": "2025-11-23",
+      "Manhattan": 95362,
+      "Queens": 10227,
+      "Brooklyn": 1865,
+      "Bronx": 707,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 108167
+    },
+    {
+      "date": "2025-11-24",
+      "Manhattan": 94652,
+      "Queens": 9805,
+      "Brooklyn": 1865,
+      "Bronx": 708,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 107036
+    },
+    {
+      "date": "2025-11-25",
+      "Manhattan": 93960,
+      "Queens": 9652,
+      "Brooklyn": 1861,
+      "Bronx": 703,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 106184
+    },
+    {
+      "date": "2025-11-26",
+      "Manhattan": 90819,
+      "Queens": 9423,
+      "Brooklyn": 1828,
+      "Bronx": 715,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 102793
+    },
+    {
+      "date": "2025-11-27",
+      "Manhattan": 83083,
+      "Queens": 8679,
+      "Brooklyn": 1708,
+      "Bronx": 667,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 94145
+    },
+    {
+      "date": "2025-11-28",
+      "Manhattan": 78317,
+      "Queens": 8303,
+      "Brooklyn": 1530,
+      "Bronx": 584,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 88742
+    },
+    {
+      "date": "2025-11-29",
+      "Manhattan": 74685,
+      "Queens": 8841,
+      "Brooklyn": 1499,
+      "Bronx": 586,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 85619
+    },
+    {
+      "date": "2025-11-30",
+      "Manhattan": 72969,
+      "Queens": 9489,
+      "Brooklyn": 1467,
+      "Bronx": 580,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 84513
+    },
+    {
+      "date": "2025-12-01",
+      "Manhattan": 72790,
+      "Queens": 10365,
+      "Brooklyn": 1456,
+      "Bronx": 580,
+      "Staten Island": 2,
+      "EWR": 8,
+      "total": 85202
+    },
+    {
+      "date": "2025-12-02",
+      "Manhattan": 72997,
+      "Queens": 10972,
+      "Brooklyn": 1441,
+      "Bronx": 573,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 85991
+    },
+    {
+      "date": "2025-12-03",
+      "Manhattan": 75944,
+      "Queens": 11532,
+      "Brooklyn": 1474,
+      "Bronx": 556,
+      "Staten Island": 0,
+      "EWR": 7,
+      "total": 89512
+    },
+    {
+      "date": "2025-12-04",
+      "Manhattan": 84458,
+      "Queens": 12521,
+      "Brooklyn": 1606,
+      "Bronx": 605,
+      "Staten Island": 0,
+      "EWR": 7,
+      "total": 99198
+    },
+    {
+      "date": "2025-12-05",
+      "Manhattan": 90155,
+      "Queens": 13069,
+      "Brooklyn": 1762,
+      "Bronx": 694,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 105689
+    },
+    {
+      "date": "2025-12-06",
+      "Manhattan": 94841,
+      "Queens": 12576,
+      "Brooklyn": 1788,
+      "Bronx": 690,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 109904
+    },
+    {
+      "date": "2025-12-07",
+      "Manhattan": 97593,
+      "Queens": 12158,
+      "Brooklyn": 1811,
+      "Bronx": 691,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 112260
+    },
+    {
+      "date": "2025-12-08",
+      "Manhattan": 99532,
+      "Queens": 11755,
+      "Brooklyn": 1816,
+      "Bronx": 693,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 113803
+    },
+    {
+      "date": "2025-12-09",
+      "Manhattan": 100659,
+      "Queens": 11463,
+      "Brooklyn": 1818,
+      "Bronx": 698,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 114644
+    },
+    {
+      "date": "2025-12-10",
+      "Manhattan": 101238,
+      "Queens": 11302,
+      "Brooklyn": 1817,
+      "Bronx": 700,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 115063
+    },
+    {
+      "date": "2025-12-11",
+      "Manhattan": 101383,
+      "Queens": 11132,
+      "Brooklyn": 1801,
+      "Bronx": 698,
+      "Staten Island": 2,
+      "EWR": 5,
+      "total": 115020
+    },
+    {
+      "date": "2025-12-12",
+      "Manhattan": 101881,
+      "Queens": 11173,
+      "Brooklyn": 1811,
+      "Bronx": 697,
+      "Staten Island": 0,
+      "EWR": 6,
+      "total": 115568
+    },
+    {
+      "date": "2025-12-13",
+      "Manhattan": 101933,
+      "Queens": 11112,
+      "Brooklyn": 1825,
+      "Bronx": 693,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 115571
+    },
+    {
+      "date": "2025-12-14",
+      "Manhattan": 101171,
+      "Queens": 10834,
+      "Brooklyn": 1770,
+      "Bronx": 682,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 114465
+    },
+    {
+      "date": "2025-12-15",
+      "Manhattan": 100347,
+      "Queens": 10922,
+      "Brooklyn": 1741,
+      "Bronx": 673,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 113691
+    },
+    {
+      "date": "2025-12-16",
+      "Manhattan": 99771,
+      "Queens": 10678,
+      "Brooklyn": 1733,
+      "Bronx": 667,
+      "Staten Island": 0,
+      "EWR": 7,
+      "total": 112856
+    },
+    {
+      "date": "2025-12-17",
+      "Manhattan": 99203,
+      "Queens": 10389,
+      "Brooklyn": 1732,
+      "Bronx": 666,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 111999
+    },
+    {
+      "date": "2025-12-18",
+      "Manhattan": 97900,
+      "Queens": 10107,
+      "Brooklyn": 1739,
+      "Bronx": 663,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 110417
+    },
+    {
+      "date": "2025-12-19",
+      "Manhattan": 96605,
+      "Queens": 9667,
+      "Brooklyn": 1707,
+      "Bronx": 656,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 108643
+    },
+    {
+      "date": "2025-12-20",
+      "Manhattan": 94947,
+      "Queens": 9728,
+      "Brooklyn": 1685,
+      "Bronx": 662,
+      "Staten Island": 2,
+      "EWR": 6,
+      "total": 107032
+    },
+    {
+      "date": "2025-12-21",
+      "Manhattan": 94200,
+      "Queens": 9489,
+      "Brooklyn": 1726,
+      "Bronx": 671,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 106095
+    },
+    {
+      "date": "2025-12-22",
+      "Manhattan": 92075,
+      "Queens": 8791,
+      "Brooklyn": 1759,
+      "Bronx": 681,
+      "Staten Island": 2,
+      "EWR": 8,
+      "total": 103316
+    },
+    {
+      "date": "2025-12-23",
+      "Manhattan": 88167,
+      "Queens": 8437,
+      "Brooklyn": 1743,
+      "Bronx": 689,
+      "Staten Island": 3,
+      "EWR": 8,
+      "total": 99047
+    },
+    {
+      "date": "2025-12-24",
+      "Manhattan": 82411,
+      "Queens": 7877,
+      "Brooklyn": 1635,
+      "Bronx": 639,
+      "Staten Island": 3,
+      "EWR": 8,
+      "total": 92572
+    },
+    {
+      "date": "2025-12-25",
+      "Manhattan": 72733,
+      "Queens": 7326,
+      "Brooklyn": 1439,
+      "Bronx": 560,
+      "Staten Island": 3,
+      "EWR": 7,
+      "total": 82068
+    },
+    {
+      "date": "2025-12-26",
+      "Manhattan": 66080,
+      "Queens": 6918,
+      "Brooklyn": 1322,
+      "Bronx": 503,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 74832
+    },
+    {
+      "date": "2025-12-27",
+      "Manhattan": 59913,
+      "Queens": 7047,
+      "Brooklyn": 1225,
+      "Bronx": 473,
+      "Staten Island": 2,
+      "EWR": 8,
+      "total": 68669
+    },
+    {
+      "date": "2025-12-28",
+      "Manhattan": 57113,
+      "Queens": 7682,
+      "Brooklyn": 1167,
+      "Bronx": 470,
+      "Staten Island": 2,
+      "EWR": 7,
+      "total": 66440
+    },
+    {
+      "date": "2025-12-29",
+      "Manhattan": 55610,
+      "Queens": 8090,
+      "Brooklyn": 1102,
+      "Bronx": 437,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 65246
+    },
+    {
+      "date": "2025-12-30",
+      "Manhattan": 55235,
+      "Queens": 8529,
+      "Brooklyn": 1081,
+      "Bronx": 408,
+      "Staten Island": 1,
+      "EWR": 5,
+      "total": 65259
+    },
+    {
+      "date": "2025-12-31",
+      "Manhattan": 55443,
+      "Queens": 8965,
+      "Brooklyn": 1168,
+      "Bronx": 425,
+      "Staten Island": 3,
+      "EWR": 5,
+      "total": 66008
+    }
+  ],
+  "rawTopZonesData": [
+    {
+      "hour_str": "00:00",
+      "Clinton East": 0,
+      "East Village": 57294,
+      "Garment District": 0,
+      "JFK Airport": 84408,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 50350
+    },
+    {
+      "hour_str": "01:00",
+      "Clinton East": 0,
+      "East Village": 52096,
+      "Garment District": 0,
+      "JFK Airport": 43860,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 41364
+    },
+    {
+      "hour_str": "02:00",
+      "Clinton East": 0,
+      "East Village": 38736,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 28848,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 27946
+    },
+    {
+      "hour_str": "03:00",
+      "Clinton East": 0,
+      "East Village": 24016,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 19843,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 16681
+    },
+    {
+      "hour_str": "04:00",
+      "Clinton East": 9234,
+      "East Village": 11252,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 9316,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 0
+    },
+    {
+      "hour_str": "05:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 11385,
+      "JFK Airport": 26832,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 13516,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 0
+    },
+    {
+      "hour_str": "06:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 20247,
+      "JFK Airport": 48062,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 29554,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 0
+    },
+    {
+      "hour_str": "07:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 52557,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 47167,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 56872,
+      "Upper East Side South": 0,
+      "West Village": 0
+    },
+    {
+      "hour_str": "08:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 57739,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 82342,
+      "Upper East Side South": 65258,
+      "West Village": 0
+    },
+    {
+      "hour_str": "09:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 66955,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 87897,
+      "Upper East Side South": 79197,
+      "West Village": 0
+    },
+    {
+      "hour_str": "10:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 69058,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 92441,
+      "Upper East Side South": 90664,
+      "West Village": 0
+    },
+    {
+      "hour_str": "11:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 82695,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 99301,
+      "Upper East Side South": 104541,
+      "West Village": 0
+    },
+    {
+      "hour_str": "12:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 92250,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 108907,
+      "Upper East Side South": 118830,
+      "West Village": 0
+    },
+    {
+      "hour_str": "13:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 99840,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 103409,
+      "Upper East Side South": 122256,
+      "West Village": 0
+    },
+    {
+      "hour_str": "14:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 0,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 110010,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 110126,
+      "Upper East Side South": 137127,
+      "West Village": 0
+    },
+    {
+      "hour_str": "15:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 124592,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 123082,
+      "Upper East Side South": 137194,
+      "West Village": 0
+    },
+    {
+      "hour_str": "16:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 138660,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 128999,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 130631,
+      "West Village": 0
+    },
+    {
+      "hour_str": "17:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 126890,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 146174,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 133128,
+      "West Village": 0
+    },
+    {
+      "hour_str": "18:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 115281,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 149749,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 130824,
+      "West Village": 0
+    },
+    {
+      "hour_str": "19:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 124269,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 128921,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 105856,
+      "West Village": 0
+    },
+    {
+      "hour_str": "20:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 129517,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 111872,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 92298,
+      "West Village": 0
+    },
+    {
+      "hour_str": "21:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 122424,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 101046,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 98737,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 0
+    },
+    {
+      "hour_str": "22:00",
+      "Clinton East": 0,
+      "East Village": 0,
+      "Garment District": 0,
+      "JFK Airport": 121786,
+      "LaGuardia Airport": 0,
+      "Lower East Side": 0,
+      "Midtown Center": 82723,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 93841,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 0
+    },
+    {
+      "hour_str": "23:00",
+      "Clinton East": 0,
+      "East Village": 58364,
+      "Garment District": 0,
+      "JFK Airport": 112287,
+      "LaGuardia Airport": 70785,
+      "Lower East Side": 0,
+      "Midtown Center": 0,
+      "Penn Station/Madison Sq West": 0,
+      "Times Sq/Theatre District": 0,
+      "Upper East Side North": 0,
+      "Upper East Side South": 0,
+      "West Village": 0
+    }
+  ],
+  "hourlyZones": [
+    {
+      "hour": "00:00",
+      "hourNum": 0,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 84408,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "East Village",
+          "trips": 57294,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Bars & Culture",
+          "rank": 2
+        },
+        {
+          "zone": "West Village",
+          "trips": 50350,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Dining & Entertainment",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 192052,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 84408
+    },
+    {
+      "hour": "01:00",
+      "hourNum": 1,
+      "topZones": [
+        {
+          "zone": "East Village",
+          "trips": 52096,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Bars & Culture",
+          "rank": 1
+        },
+        {
+          "zone": "JFK Airport",
+          "trips": 43860,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 2
+        },
+        {
+          "zone": "West Village",
+          "trips": 41364,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Dining & Entertainment",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 137320,
+      "topZoneName": "East Village",
+      "topZoneTrips": 52096
+    },
+    {
+      "hour": "02:00",
+      "hourNum": 2,
+      "topZones": [
+        {
+          "zone": "East Village",
+          "trips": 38736,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Bars & Culture",
+          "rank": 1
+        },
+        {
+          "zone": "Lower East Side",
+          "trips": 28848,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Late Night Hotspot",
+          "rank": 2
+        },
+        {
+          "zone": "West Village",
+          "trips": 27946,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Dining & Entertainment",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 95530,
+      "topZoneName": "East Village",
+      "topZoneTrips": 38736
+    },
+    {
+      "hour": "03:00",
+      "hourNum": 3,
+      "topZones": [
+        {
+          "zone": "East Village",
+          "trips": 24016,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Bars & Culture",
+          "rank": 1
+        },
+        {
+          "zone": "Lower East Side",
+          "trips": 19843,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Late Night Hotspot",
+          "rank": 2
+        },
+        {
+          "zone": "West Village",
+          "trips": 16681,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Dining & Entertainment",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 60540,
+      "topZoneName": "East Village",
+      "topZoneTrips": 24016
+    },
+    {
+      "hour": "04:00",
+      "hourNum": 4,
+      "topZones": [
+        {
+          "zone": "East Village",
+          "trips": 11252,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Bars & Culture",
+          "rank": 1
+        },
+        {
+          "zone": "Lower East Side",
+          "trips": 9316,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Late Night Hotspot",
+          "rank": 2
+        },
+        {
+          "zone": "Clinton East",
+          "trips": 9234,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Hell's Kitchen Core",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 29802,
+      "topZoneName": "East Village",
+      "topZoneTrips": 11252
+    },
+    {
+      "hour": "05:00",
+      "hourNum": 5,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 26832,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "Penn Station/Madison Sq West",
+          "trips": 13516,
+          "borough": "Manhattan",
+          "category": "Transit",
+          "tag": "Intercity Rail & Commuters",
+          "rank": 2
+        },
+        {
+          "zone": "Garment District",
+          "trips": 11385,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Midtown Commuter District",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 51733,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 26832
+    },
+    {
+      "hour": "06:00",
+      "hourNum": 6,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 48062,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "Penn Station/Madison Sq West",
+          "trips": 29554,
+          "borough": "Manhattan",
+          "category": "Transit",
+          "tag": "Intercity Rail & Commuters",
+          "rank": 2
+        },
+        {
+          "zone": "Garment District",
+          "trips": 20247,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Midtown Commuter District",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 97863,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 48062
+    },
+    {
+      "hour": "07:00",
+      "hourNum": 7,
+      "topZones": [
+        {
+          "zone": "Upper East Side North",
+          "trips": 56872,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 1
+        },
+        {
+          "zone": "JFK Airport",
+          "trips": 52557,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 2
+        },
+        {
+          "zone": "Penn Station/Madison Sq West",
+          "trips": 47167,
+          "borough": "Manhattan",
+          "category": "Transit",
+          "tag": "Intercity Rail & Commuters",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 156596,
+      "topZoneName": "Upper East Side North",
+      "topZoneTrips": 56872
+    },
+    {
+      "hour": "08:00",
+      "hourNum": 8,
+      "topZones": [
+        {
+          "zone": "Upper East Side North",
+          "trips": 82342,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 65258,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 2
+        },
+        {
+          "zone": "Penn Station/Madison Sq West",
+          "trips": 57739,
+          "borough": "Manhattan",
+          "category": "Transit",
+          "tag": "Intercity Rail & Commuters",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 205339,
+      "topZoneName": "Upper East Side North",
+      "topZoneTrips": 82342
+    },
+    {
+      "hour": "09:00",
+      "hourNum": 9,
+      "topZones": [
+        {
+          "zone": "Upper East Side North",
+          "trips": 87897,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 79197,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 2
+        },
+        {
+          "zone": "Penn Station/Madison Sq West",
+          "trips": 66955,
+          "borough": "Manhattan",
+          "category": "Transit",
+          "tag": "Intercity Rail & Commuters",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 234049,
+      "topZoneName": "Upper East Side North",
+      "topZoneTrips": 87897
+    },
+    {
+      "hour": "10:00",
+      "hourNum": 10,
+      "topZones": [
+        {
+          "zone": "Upper East Side North",
+          "trips": 92441,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 90664,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 2
+        },
+        {
+          "zone": "Penn Station/Madison Sq West",
+          "trips": 69058,
+          "borough": "Manhattan",
+          "category": "Transit",
+          "tag": "Intercity Rail & Commuters",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 252163,
+      "topZoneName": "Upper East Side North",
+      "topZoneTrips": 92441
+    },
+    {
+      "hour": "11:00",
+      "hourNum": 11,
+      "topZones": [
+        {
+          "zone": "Upper East Side South",
+          "trips": 104541,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side North",
+          "trips": 99301,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 2
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 82695,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 286537,
+      "topZoneName": "Upper East Side South",
+      "topZoneTrips": 104541
+    },
+    {
+      "hour": "12:00",
+      "hourNum": 12,
+      "topZones": [
+        {
+          "zone": "Upper East Side South",
+          "trips": 118830,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side North",
+          "trips": 108907,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 2
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 92250,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 319987,
+      "topZoneName": "Upper East Side South",
+      "topZoneTrips": 118830
+    },
+    {
+      "hour": "13:00",
+      "hourNum": 13,
+      "topZones": [
+        {
+          "zone": "Upper East Side South",
+          "trips": 122256,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side North",
+          "trips": 103409,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 2
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 99840,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 325505,
+      "topZoneName": "Upper East Side South",
+      "topZoneTrips": 122256
+    },
+    {
+      "hour": "14:00",
+      "hourNum": 14,
+      "topZones": [
+        {
+          "zone": "Upper East Side South",
+          "trips": 137127,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side North",
+          "trips": 110126,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 2
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 110010,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 357263,
+      "topZoneName": "Upper East Side South",
+      "topZoneTrips": 137127
+    },
+    {
+      "hour": "15:00",
+      "hourNum": 15,
+      "topZones": [
+        {
+          "zone": "Upper East Side South",
+          "trips": 137194,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 1
+        },
+        {
+          "zone": "JFK Airport",
+          "trips": 124592,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 2
+        },
+        {
+          "zone": "Upper East Side North",
+          "trips": 123082,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "High-Density Residential",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 384868,
+      "topZoneName": "Upper East Side South",
+      "topZoneTrips": 137194
+    },
+    {
+      "hour": "16:00",
+      "hourNum": 16,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 138660,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 130631,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 2
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 128999,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 398290,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 138660
+    },
+    {
+      "hour": "17:00",
+      "hourNum": 17,
+      "topZones": [
+        {
+          "zone": "Midtown Center",
+          "trips": 146174,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 133128,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 2
+        },
+        {
+          "zone": "JFK Airport",
+          "trips": 126890,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 406192,
+      "topZoneName": "Midtown Center",
+      "topZoneTrips": 146174
+    },
+    {
+      "hour": "18:00",
+      "hourNum": 18,
+      "topZones": [
+        {
+          "zone": "Midtown Center",
+          "trips": 149749,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 1
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 130824,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 2
+        },
+        {
+          "zone": "JFK Airport",
+          "trips": 115281,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 395854,
+      "topZoneName": "Midtown Center",
+      "topZoneTrips": 149749
+    },
+    {
+      "hour": "19:00",
+      "hourNum": 19,
+      "topZones": [
+        {
+          "zone": "Midtown Center",
+          "trips": 128921,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 1
+        },
+        {
+          "zone": "JFK Airport",
+          "trips": 124269,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 2
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 105856,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 359046,
+      "topZoneName": "Midtown Center",
+      "topZoneTrips": 128921
+    },
+    {
+      "hour": "20:00",
+      "hourNum": 20,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 129517,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 111872,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 2
+        },
+        {
+          "zone": "Upper East Side South",
+          "trips": 92298,
+          "borough": "Manhattan",
+          "category": "Residential",
+          "tag": "Residential & Retail Corridor",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 333687,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 129517
+    },
+    {
+      "hour": "21:00",
+      "hourNum": 21,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 122424,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 101046,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 2
+        },
+        {
+          "zone": "Times Sq/Theatre District",
+          "trips": 98737,
+          "borough": "Manhattan",
+          "category": "Entertainment",
+          "tag": "Broadway & Tourism",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 322207,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 122424
+    },
+    {
+      "hour": "22:00",
+      "hourNum": 22,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 121786,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "Times Sq/Theatre District",
+          "trips": 93841,
+          "borough": "Manhattan",
+          "category": "Entertainment",
+          "tag": "Broadway & Tourism",
+          "rank": 2
+        },
+        {
+          "zone": "Midtown Center",
+          "trips": 82723,
+          "borough": "Manhattan",
+          "category": "Commercial",
+          "tag": "Corporate & Finance",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 298350,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 121786
+    },
+    {
+      "hour": "23:00",
+      "hourNum": 23,
+      "topZones": [
+        {
+          "zone": "JFK Airport",
+          "trips": 112287,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "International Gateway",
+          "rank": 1
+        },
+        {
+          "zone": "LaGuardia Airport",
+          "trips": 70785,
+          "borough": "Queens",
+          "category": "Airport",
+          "tag": "Domestic Hub",
+          "rank": 2
+        },
+        {
+          "zone": "East Village",
+          "trips": 58364,
+          "borough": "Manhattan",
+          "category": "Nightlife",
+          "tag": "Bars & Culture",
+          "rank": 3
+        }
+      ],
+      "totalHourlyVolume": 241436,
+      "topZoneName": "JFK Airport",
+      "topZoneTrips": 112287
+    }
+  ],
+  "monthlyDemand": [
+    {
+      "month": "Jan",
+      "monthKey": "2025-01",
+      "days": 31,
+      "Manhattan": 2327089,
+      "Queens": 233191,
+      "Brooklyn": 23692,
+      "Bronx": 5711,
+      "total": 2589841
+    },
+    {
+      "month": "Feb",
+      "monthKey": "2025-02",
+      "days": 28,
+      "Manhattan": 2414403,
+      "Queens": 223362,
+      "Brooklyn": 22656,
+      "Bronx": 5836,
+      "total": 2666386
+    },
+    {
+      "month": "Mar",
+      "monthKey": "2025-03",
+      "days": 2,
+      "Manhattan": 136949,
+      "Queens": 0,
+      "Brooklyn": 0,
+      "Bronx": 0,
+      "total": 136949
+    },
+    {
+      "month": "Apr",
+      "monthKey": "2025-04",
+      "days": 30,
+      "Manhattan": 2652626,
+      "Queens": 289204,
+      "Brooklyn": 28627,
+      "Bronx": 7381,
+      "total": 2977996
+    },
+    {
+      "month": "May",
+      "monthKey": "2025-05",
+      "days": 31,
+      "Manhattan": 2902386,
+      "Queens": 347723,
+      "Brooklyn": 32093,
+      "Bronx": 7612,
+      "total": 3290001
+    },
+    {
+      "month": "Jun",
+      "monthKey": "2025-06",
+      "days": 30,
+      "Manhattan": 2683086,
+      "Queens": 331289,
+      "Brooklyn": 32661,
+      "Bronx": 8152,
+      "total": 3055335
+    },
+    {
+      "month": "Jul",
+      "monthKey": "2025-07",
+      "days": 31,
+      "Manhattan": 2403247,
+      "Queens": 315724,
+      "Brooklyn": 34971,
+      "Bronx": 9295,
+      "total": 2763405
+    },
+    {
+      "month": "Aug",
+      "monthKey": "2025-08",
+      "days": 31,
+      "Manhattan": 2276509,
+      "Queens": 320547,
+      "Brooklyn": 42151,
+      "Bronx": 12026,
+      "total": 2651432
+    },
+    {
+      "month": "Sep",
+      "monthKey": "2025-09",
+      "days": 30,
+      "Manhattan": 2624367,
+      "Queens": 341551,
+      "Brooklyn": 47352,
+      "Bronx": 13592,
+      "total": 3027061
+    },
+    {
+      "month": "Oct",
+      "monthKey": "2025-10",
+      "days": 31,
+      "Manhattan": 2903685,
+      "Queens": 351368,
+      "Brooklyn": 49636,
+      "Bronx": 17171,
+      "total": 3322106
+    },
+    {
+      "month": "Nov",
+      "monthKey": "2025-11",
+      "days": 30,
+      "Manhattan": 2796263,
+      "Queens": 308896,
+      "Brooklyn": 50818,
+      "Bronx": 18859,
+      "total": 3175063
+    },
+    {
+      "month": "Dec",
+      "monthKey": "2025-12",
+      "days": 31,
+      "Manhattan": 2664328,
+      "Queens": 312606,
+      "Brooklyn": 49700,
+      "Bronx": 19193,
+      "total": 3046080
+    }
+  ],
+  "hourlyWeekdayVsWeekend": [
+    {
+      "hour": "00:00",
+      "weekday": 18500,
+      "weekend": 49800
+    },
+    {
+      "hour": "02:00",
+      "weekday": 8200,
+      "weekend": 38400
+    },
+    {
+      "hour": "04:00",
+      "weekday": 5900,
+      "weekend": 16200
+    },
+    {
+      "hour": "06:00",
+      "weekday": 28400,
+      "weekend": 12500
+    },
+    {
+      "hour": "08:00",
+      "weekday": 82500,
+      "weekend": 24800
+    },
+    {
+      "hour": "10:00",
+      "weekday": 89400,
+      "weekend": 52100
+    },
+    {
+      "hour": "12:00",
+      "weekday": 96200,
+      "weekend": 78500
+    },
+    {
+      "hour": "14:00",
+      "weekday": 104500,
+      "weekend": 89200
+    },
+    {
+      "hour": "16:00",
+      "weekday": 112800,
+      "weekend": 91500
+    },
+    {
+      "hour": "18:00",
+      "weekday": 126400,
+      "weekend": 94800
+    },
+    {
+      "hour": "20:00",
+      "weekday": 108900,
+      "weekend": 98600
+    },
+    {
+      "hour": "22:00",
+      "weekday": 74200,
+      "weekend": 87400
+    }
+  ],
+  "engineBenchmarks": {
+    "standardSortMergeJoin": {
+      "name": "Standard Sort-Merge Join",
+      "executionTimeSeconds": 42.8,
+      "shuffleReadMB": 2840,
+      "shuffleWriteMB": 2840,
+      "stagesCount": 4,
+      "spillToDiskMB": 312
+    },
+    "broadcastHashJoin": {
+      "name": "Broadcast Hash Join",
+      "executionTimeSeconds": 8.4,
+      "shuffleReadMB": 0,
+      "shuffleWriteMB": 0,
+      "stagesCount": 2,
+      "spillToDiskMB": 0,
+      "speedupFactor": 5.1
+    },
+    "clusterSpecs": {
+      "sparkVersion": "3.5.0",
+      "scalaVersion": "2.13.12",
+      "deltaLakeVersion": "3.0.0",
+      "driverMemory": "4 GB",
+      "executorCores": "4 Cores",
+      "acidCompliance": "Delta Lake ACID v3"
+    }
+  },
+  "mlModelSpecs": {
+    "algorithm": "Spark MLlib RandomForestClassifier",
+    "trees": 10,
+    "maxDepth": 5,
+    "areaUnderROC": 0.892,
+    "trainTestSplit": "80% Train / 20% Test",
+    "target": "is_high_tipper (Gratuity > 20% of Fare)",
+    "featureImportances": [
+      {
+        "feature": "Trip Duration (mins)",
+        "importance": 0.462,
+        "weightPct": "46.2%"
+      },
+      {
+        "feature": "Trip Distance (miles)",
+        "importance": 0.325,
+        "weightPct": "32.5%"
+      },
+      {
+        "feature": "Pickup Hour of Day",
+        "importance": 0.148,
+        "weightPct": "14.8%"
+      },
+      {
+        "feature": "Passenger Count",
+        "importance": 0.065,
+        "weightPct": "6.5%"
+      }
+    ],
+    "confusionMatrix": {
+      "truePositive": 78.4,
+      "falsePositive": 11.2,
+      "trueNegative": 83.1,
+      "falseNegative": 14.5
+    }
+  },
+  "zoneMeta": {
+    "JFK Airport": {
+      "borough": "Queens",
+      "category": "Airport",
+      "tag": "International Gateway"
+    },
+    "LaGuardia Airport": {
+      "borough": "Queens",
+      "category": "Airport",
+      "tag": "Domestic Hub"
+    },
+    "East Village": {
+      "borough": "Manhattan",
+      "category": "Nightlife",
+      "tag": "Bars & Culture"
+    },
+    "West Village": {
+      "borough": "Manhattan",
+      "category": "Nightlife",
+      "tag": "Dining & Entertainment"
+    },
+    "Lower East Side": {
+      "borough": "Manhattan",
+      "category": "Nightlife",
+      "tag": "Late Night Hotspot"
+    },
+    "Midtown Center": {
+      "borough": "Manhattan",
+      "category": "Commercial",
+      "tag": "Corporate & Finance"
+    },
+    "Times Sq/Theatre District": {
+      "borough": "Manhattan",
+      "category": "Entertainment",
+      "tag": "Broadway & Tourism"
+    },
+    "Penn Station/Madison Sq West": {
+      "borough": "Manhattan",
+      "category": "Transit",
+      "tag": "Intercity Rail & Commuters"
+    },
+    "Upper East Side North": {
+      "borough": "Manhattan",
+      "category": "Residential",
+      "tag": "High-Density Residential"
+    },
+    "Upper East Side South": {
+      "borough": "Manhattan",
+      "category": "Residential",
+      "tag": "Residential & Retail Corridor"
+    },
+    "Clinton East": {
+      "borough": "Manhattan",
+      "category": "Commercial",
+      "tag": "Hell's Kitchen Core"
+    },
+    "Garment District": {
+      "borough": "Manhattan",
+      "category": "Commercial",
+      "tag": "Midtown Commuter District"
+    }
+  }
+}
